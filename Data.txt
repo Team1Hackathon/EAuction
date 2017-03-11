@@ -1,0 +1,9 @@
+
+[{"_id":"00c707fc72742f2d1da6fa7efecc783c",
+	"_rev":"2-a0057bd33fd410e7e66406e8104d0168",
+	"itemIDOnSale":"HAPC15GC010506B",
+	"itemName":"Honeywell Car Air Purifier",
+	"itemValue":6300,"productURL":" http://www.honeywellsmarthomes.com",
+	"itemSource":"HONEYWELL",
+	"timeStamp":"Sat Mar 11 2017 06:22:11 GMT+0000 (UTC)"},
+	{"_id":"00c707fc72742f2d1da6fa7efecdf636","_rev":"1-7dad61fb5e3b5af77266ad7104777451","itemIDOnSale":"HAPC15GC010506B","itemName":"Honeywell Car Air Purifier","itemValue":6299,"productURL":" http://www.honeywellsmarthomes.com","itemSource":"HONEYWELL","timeStamp":"Thu Mar 09 2017 19:48:03 GMT+0000 (UTC)"}]
